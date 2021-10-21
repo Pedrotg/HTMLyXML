@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personajes>
+    <personaje>
+        <nombre imagenurl="../htmlyxml/img/mario.png">Mario</nombre>
+        <descripcion>
+            En Donkey Kong, de 1981, su participación fue bajo el nombre de «Jumpman»,13​ cuya misión era rescatar a Pauline, la damisela en apuros secuestrada por un simio llamado Donkey Kong. Dos años después, Mario fue acompañado por su hermano Luigi en otro juego arcade, llamado Mario Bros., el cual fue realizado a modo de spin-off de Jumpman, tras su primeriza participación donde era un fontanero. 
+        </descripcion>
+    </personaje>
+
+    <personaje>
+        <nombre imagenurl="../htmlyxml/img/luigi.png">Luigi</nombre>
+        <descripcion>
+            Luigi, al igual que su hermano Mario, se encarga de rescatar a la Princesa. En este caso, aparece como segundo personaje, seleccionable para el segundo mando. Posee habilidades similares a las de Mario, diferenciándose en el color de su traje: sombrero y camisa interior verde y mono blanco. Cuando adquiere una flor, su traje es igual que el de Fire Mario, pero cambiando el rojo por el verde. Debutó en 1983 en el videojuego Mario Bros. 
+        </descripcion>
+    </personaje>
+
+    <personaje>
+        <nombre imagenurl="../htmlyxml/img/bowser.png">Bowser</nombre>
+        <descripcion>
+            Bowser, el Rey de los Koopa (クッパ大王 Kuppa Daiō?) es el archienemigo de la serie. Una tortuga antropomorfa más grande que un humano, quien invade el Reino Champiñón para apoderarse de él.
+        </descripcion>
+    </personaje>
+
+    <personaje>
+        <nombre imagenurl="../htmlyxml/img/toad.png">Toad</nombre>
+        <descripcion>
+            Es un habitante y guardián del Reino Champiñón. Aparece al final de los 7 primeros castillos, mostrando la conocida frase: ¡Gracias Mario! Pero nuestra princesa está en otro castillo.
+        </descripcion>
+    </personaje>
+
+    <personaje>
+        <nombre imagenurl="../htmlyxml/img/rosalina.png">Rosalina</nombre>
+        <descripcion>
+            Es la madre adoptiva de unos seres ficticios llamados Destellos (Lumas en inglés), y también la observadora del cosmos. En su historia, ella revela que vuelve a su planeta natal cada 100 años.
+        </descripcion>
+    </personaje>
+</personajes>
